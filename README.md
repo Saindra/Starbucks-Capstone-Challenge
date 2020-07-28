@@ -12,9 +12,9 @@ The libraries required for the successful execution of this code are mentioned i
 ### Introducing a Dataset <a name="dataset-introduction"></a>
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. It consists of three files:
 
-portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
-profile.json - demographic data for each customer
-transcript.json - records for transactions, offers received, offers viewed, and offers completed
+1. portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+2. profile.json - demographic data for each customer
+3. transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 ### Business Problem <a name="business-problem"></a>
 As a part of this project, we will implement a data driven approach to answer the following questions
