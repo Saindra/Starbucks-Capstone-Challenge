@@ -24,11 +24,13 @@ As a part of this project, we will implement a data driven approach to answer th
 4. How are the success rates for different promotional offers?
 5. What are the most successful promotional offers among different age groups?
 6. Who are the top 20 Starbuck loyal Customers?
+
 and
+
 Finally, build a Supervised ML model to predict if a customer responds to a promotional offer!!
 
 ### File Descriptions <a name="files"></a>
-There is a notebook named Starbucks_Capstone_notebook.ipynb here, to showcase work related to the project. There are 3 data files in the project folder as follows.
+There is a notebook named Starbucks_Capstone_notebook.ipynb here, to showcase work related to the project. There are 3 json files in the data folder as follows.
 1. portfolio.json 
 2. profile.json 
 3. transcript.json
