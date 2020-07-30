@@ -17,7 +17,7 @@ This data set contains simulated data that mimics customer behavior on the Starb
 3. transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 ### Business Problem <a name="business-problem"></a>
-As a part of this project, we will implement a data driven approach to answer the following questions
+As a part of this project, a data driven approach is used to answer the following questions
 1. What is the average income of Starbucks customers?
 2. What is the average age of Starbucks customers?
 3. What is the most common promotional offer and most common offer type?
