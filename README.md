@@ -36,4 +36,4 @@ There is a notebook named Starbucks_Capstone_notebook.ipynb here, to showcase wo
 3. transcript.json
 
 ## Results<a name="results"></a>
-The main observations of the code are published here https://medium.com/@saindra.eagle123/starbucks-capstone-challenge-6b950d293752.
+The main observations of the code are published here.
